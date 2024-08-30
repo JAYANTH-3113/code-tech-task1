@@ -9,6 +9,13 @@
 # *Project Overview*
 
 ## *Project: Exploratory Java Programming On Online Banking System*
+![code task 1](https://github.com/user-attachments/assets/803f4e27-f46c-45bf-8b1f-ab0a9b9d4252)
+![code task 1](https://github.com/user-attachments/assets/904aa228-ebf6-4089-9658-b4fdd46053a3)
+![cide task 1](https://github.com/user-attachments/assets/70154a26-9c77-408f-bce5-f9667d6ad313)
+
+
+
+
 ## *Objective*
 The project is a console-based online banking system implemented in Java. It allows users to perform various banking operations such as creating accounts, depositing and withdrawing funds, transferring money between accounts, viewing transaction history, and managing personal information.
 
